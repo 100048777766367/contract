@@ -1,6 +1,6 @@
 {
-    "generation_epoch": 58,
-    "last_t": 1793476130,
-    "quantum_cid": "e2067af208ff23f0677e85d7c0475a678566514e815572ee53c6260d3abece76cf6b4f152e44f21139d933c953bc91ca2d7e4e3add217c4f6233d5a20cbe03e3",
+    "generation_epoch": 59,
+    "last_t": 1793488428,
+    "quantum_cid": "5ae6d4a498c916367c2d36d1213896e2da9f7a00147b614a2b5c1c416588683cc643d3ad2ff7f8e1d250e84eba259ce96a9d23ce7350f4932c9d29f49286ba9f",
     "status": "contract_pure"
 }
